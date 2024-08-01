@@ -6,7 +6,18 @@ I have a small introduction to that field in the form of a foundations course th
 I am always looking for opportunities, especially for internships and experiences, and always open for communication. I can provide a copy of my resume per request. 
 
 - If intrested reach me at michelangeloz03@gmail.com 
-- LinkedIn: www.linkedin.com/in/michelangelo-zampieri-87675b288 
+- LinkedIn: www.linkedin.com/in/michelangelo-zampieri-87675b288
+
+On my profile I have the following repositories: 
+
+- Personal_Projects
+- Break-Through-Tech-AI-2024
+- CS150 (Private)- Compiler Design 
+- CS131 (Private)- Operating Systems
+- CS153- Mobile App Development
+- flower-server (Part of CS153)
+- flower-shop-DB (Part of CS153) 
+
 
 
 
