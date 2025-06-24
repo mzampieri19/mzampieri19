@@ -15,13 +15,26 @@ I'm passionate about **Machine Learning**, **AI Applications**, and **Data Scien
 ### Key Experiences:
 - **Break Through Tech AI (Fall 2024):** Collaborated on a classification model to predict industry, job function, and sector for over 70,000 companies on a national job search platform.
 - **TAMID Machine Learning Internship (Spring 2025):** Built CNN models to identify plastic types using transfer learning; developed Random Forest and LSTM models for weather prediction.
-- **Personal Projects:** Applied clustering and dimensionality reduction techniques like PCA and t-SNE; built and trained a GPT language model from scratch using PyTorch.
+- **Personal Projects:** Applied clustering and dimensionality reduction techniques like PCA and t-SNE; built and trained a GPT language model from scratch using PyTorch, and Diffusion model with text embedding. 
 
 I’m currently seeking opportunities in ML engineering, research, or data science. Feel free to reach out!
 
 ---
 
 ## 📌 Featured Projects
+
+### 🖼️ Text-to-Image Diffusion Model (GAN + Transformer + Diffusion)
+
+An advanced deep learning system that generates high-quality images from natural language prompts using a combination of GANs, transformer-based cross-attention, and diffusion models.
+
+**Highlights:**
+- Built a full diffusion pipeline from scratch using PyTorch, following the DDPM framework.
+- Implemented U-Net architecture with cross-attention to condition denoising on text inputs.
+- Trained the model to generate detailed images and perform text-guided image-to-image translation.
+- Integrated components: `attention.py`, `ddpm.py`, `clip.py`, `decoder.py`, `encoder.py`, and full training pipeline.
+
+**Concepts:** Diffusion Models, GANs, Transformers, Cross-Attention, Text-Conditioning  
+📂 [`text-to-image-diffusion`](https://github.com/mzampieri19/Custom-Diffusion-Model)
 
 ### 🚀 Custom GPT Language Model (PyTorch)  
 A character-level GPT language model built **entirely from scratch using PyTorch**, inspired by the [freeCodeCamp tutorial](https://www.freecodecamp.org/news/). The model was trained and scaled through 4 versions, evolving from a proof-of-concept to a capable LLM trained on a Common Crawl dataset.
